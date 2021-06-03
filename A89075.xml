@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius religiosus: faithfully communicating to the whole nation, the vanity of Christmas.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89075</idno><idno type="EEBO-CITATION">43663308</idno>
+  <idno type="VID">172069</idno>
+  <idno type="EEBO-PROQUEST">2240917360</idno>
+  
+            <idno type="STC">Wing M1770A</idno>
+            <idno type="STC">ESTC R180541</idno>
+            <idno type="OCLC">43663308</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172069)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2612:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius religiosus: faithfully communicating to the whole nation, the vanity of Christmas.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Robert Ibbetson dwelling in Smithfield neer Hosier Lane,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Published according to Order." -- p. 8.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christmas --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Fasts and feasts --  Church of England --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172069:1"/>
+            <head>
+               <hi>Mercurius Religiosus:</hi> Faithfully communicating to the whole Nati<g ref="char:EOLhyphen"/>on, the Vanity of CHRISTMAS:</head>
+            <p n="1">I. <seg rend="decorInit">T</seg>He Observation of this Feast hath no warrant in the holy Scriptures, for we cannot find that it was ever commanded or practised, either by Christ himselfe, his Apostles, or Apostolicall men, we read how that <hi>Herod</hi> kept his birth day, but not any where that our Saviour or his Disciples did keepe his, which if he had, in likelyhood that would have been mentioned as well as the other: So that the Feast of Christmas, at best, can be but a humaine institution; or at worst (and the worst I feare is true) a peece of wil-worship, which God could never indure, he loves to appoint his owne Service, both for man<g ref="char:EOLhyphen"/>ner, matter, time, and all other circumstances, and tis great reason that it should be so. If any shall object, the Churches practise in setting dayes apart, for commemorating great mercies, as the Feast <hi>Purim, Hest.</hi> 9. 21. Our fifth of <hi>Novemb.</hi> and other dayes of Thanksgiving: To this I answer, that God himself hath appoin<g ref="char:EOLhyphen"/>ted a day in remembrance of his Sons Birth, Death, Resurrecti<g ref="char:EOLhyphen"/>on, and all that concerns him, which is the First day of the week commonly known by the name of the Lords Day; Inasmuch then as the Lord hath appointed a time for that purpose, it can bee no lesse then high presumption, and a trenching upon Gods Di<g ref="char:EOLhyphen"/>vine Prerogative, to set our posts by his posts; and our thresholds, by his thresholds, <hi>Ezek.</hi> 43. 8. which we do, when we adde to his Ordinances, or set up any invention of our owne, with his Insti<g ref="char:EOLhyphen"/>tutions: Whereof this Feast of Christmas seemes to bee guilty,
+<pb n="2" facs="tcp:172069:2"/> for that it doth upon the matter imply, that the day which God ordained for the memoriall of Christ was not sufficient, unlesse we should adde another, or a fitter time then Gods, making our selves wiser then God in this matter.</p>
+            <p n="2">II. We know not the Day, nor at what time of the year Christ was born, so that we are very blindly led in setting our devotion so punctually upon the 25. of <hi>December;</hi> for neither the Scripture nor any authenticall human writer, do give us the least assurance that this was the day or about the time of his Nativity: The Lord perhaps, purposely concealing the day of his Sons Birth, to prevent the Idolizing of it. God doing by this day, as he did with the body of <hi>Moses,</hi> which he caused to be buried in an unknown place, that the people might not commit Idolatry with it; And tis conceived by good Divines that the contest between <hi>Michael</hi> and the Devill, <hi>Jude</hi> 9. Was on the Devils part to discover where <hi>Moses</hi> lay interred, that so the Israelites (always proane to Ido<g ref="char:EOLhyphen"/>latry and Superstition) might be drawn to make an Idol of it; But on <hi>Michaels</hi> part to keep it from being seen or known by the people, and so to take away the snare which the Devil would have laid for them: <hi>I</hi> say, that in all probability, the wisdome and providence of God hath done thus with the Birth-day of Christ, buryed it so closely, that no man to this day knowes what day of the week, what week of the month, or what month of the year he was borne on, so that they which will needs worship the day of Christs Nativity, it may justly be said of them, they worship they know not what, And though I will not tax them for seting up an Alter to the unknown God, as the super-superstitious <hi>A<g ref="char:EOLhyphen"/>thenians</hi> did, <hi>Act,</hi> 17. 23 yet they may be taxed for dedicating a day to Christ in memorial of his Birth, whose Nativity they can<g ref="char:EOLhyphen"/>not finde in any Register, yea it may be further said, that in all pro<g ref="char:EOLhyphen"/>bability our Saviour was not born on that day, nor at that season of the yeare, but rather in the Summer time, for tis not likely that the people should be called to travell from all parts of <hi>Judea,</hi> to the cheife Cityes of their Tribes, <hi>Luk.</hi> 2. 3. In the depth of Win<g ref="char:EOLhyphen"/>ter; nor that the Shepherds could keep the field by night with their flocks at that season of the year. Therefore unlikely that Christ should be born then.</p>
+            <p n="3">III. This Feast of Christmas was devised by our superstitious
+<pb n="3" facs="tcp:172069:2"/> Ancestors in meer imitation of the Pagans and Heathenish people who had a Festival called <hi>Saturnalia,</hi> or <hi>Bacchanalia,</hi> consisting of twelve dayes, dedicated to those imaginary Idol Gods, <hi>Saturn</hi> and <hi>Bacchus,</hi> which were spent in games and revellings, but coulour<g ref="char:EOLhyphen"/>ed over with the pretence of Devotion and Sacrificing to those Dietyes: Thus have wee learned and followed their wayes contrary to <hi>Deut.</hi> 18. 9. Tis most certaine that the time of our Christmas Festival is the same with theirs, for as they kept six dayes of the old year, and six dayes of the new year so do we, and as they spent those twelve dayes in Riot, Excesse, and gaming, so do we; and as they pretended Religion and Piety to their God <hi>Bachus</hi> or <hi>Saturne,</hi> in the observation of those dayes, so do we pretend Devotion to the memory of our Saviour Christ in the keeping of them, so that upon the matter there is nothing changed but the name of this Feast, from what it was in the dayes of Paga<g ref="char:EOLhyphen"/>nisme: The time of the year is the same, the number of dayes al<g ref="char:EOLhyphen"/>lotted to this Feast the same, the customs and practises upon these days the same, surely the Devil then hath not lost any thing by the hand, nor Jesus Christ gotten much by the change.</p>
+            <p n="4">IV, The vanity of observing this Feastivall may further appear by the quality of those persons and people who are so zealously addicted to the observation of it, and plead so strongly for it, if we mind them well, we shall finde them to be none of the best, nor to be guilty of over-much knowledge or piety, The Papists generally are extreamly addicted to the solemn keeping of Christ<g ref="char:EOLhyphen"/>mas, but we know them to be grosse Idolaters, and such as pre<g ref="char:EOLhyphen"/>tend to be Christs best friends, but are indeed his worst Ene<g ref="char:EOLhyphen"/>mies, and as for our common Protestant that doats so devoutly upon this time, you shall find him commonly but a statute Chri<g ref="char:EOLhyphen"/>stinan, sufficiently indowed with ignorance and superstition.</p>
+            <p>In a word, if all the worshippers of this <hi>Diana</hi> were well exa<g ref="char:EOLhyphen"/>mined it would appear that very few of them are such mighty Ze<g ref="char:EOLhyphen"/>lots for Christ indeed, as they would seem to be, by their earnest contending to uphold the Feast of his Nativity: If there were not more of the flesh then the spirit in many men, Christmas would be as little set by as Easter; Tis the Butlers box, the Cookes fees, the Parsons good cheare, the Sextons vailes, the old mans custome, the Plow-mans play dayes, the Tenants rost-meate, the
+<pb n="4" facs="tcp:172069:3"/> Land-lords Capons, the School-boys vacation, the Gentryes New-yeers gifts, the Dunkards good Ale, the Gamesters Delight, the Gluttons Mince-pyes, the Fidlers meat, drink, and money, and the Devils advantage, that makes so many cry great is <hi>Diana</hi> of the <hi>Ephesians:</hi> It is no wonder then that so many popish, igno<g ref="char:EOLhyphen"/>rant, idle, deboyst, superstitious, Atheistical, loose, and profane peo<g ref="char:EOLhyphen"/>ple, are unwilling to part with Christmas, it being a time so sutable to their corrupt humours, and base lusts.</p>
+            <p n="5">V. Consider, that although piety is pretended, yet al manner of profanenesse is practised these twelve dayes, Custome hath made Christmas a time of Licentious Liberty, for all sorts of persons, as if the remembrance of the grace of God which hath abounded in the gift of Jesus Christ, gave tolleration for men to abound in sin and wickednesse, Gluttony, Drunkenesse, Chambring, wantonesse, Riot, Excesse, Carding &amp; Dicing, are counted not only lawful, but commendable in Christmas, as if by such doings Christ were ho<g ref="char:EOLhyphen"/>noured, and took delight in these works of darknesse. The world is now grown to that passe, that he who will not run with his Neigh<g ref="char:EOLhyphen"/>bors in this excesse of Christmas ryot, or shews but the least dislike of it, shal be censured for a strange, and rigid spirited man. It is very strange that in these days of the Gospel, the Devil should so delude Christians, as to make them do him service, and yet make them be<g ref="char:EOLhyphen"/>leeve that they serve Christ; for it is most certain, that according to the usual manner of keeping Christmas here in <hi>England,</hi> the Devil and the Butlers box, have carryed away all the gains from Jesus Christ: For of all the whole year, this time (though set apart for Christ) hath proved the Devils best harvest.</p>
+            <p n="6">VI. If <hi>Paul</hi> were afraid of the <hi>Gallatians,</hi> that he had bestowed la<g ref="char:EOLhyphen"/>bor in vain amongst them, because they observed some legal Feasts <hi>Gal.</hi> 4. 10, 11. which yet were formerly of divine institution, but abolished by the coming of Christ, how much more may we fear the state of such seeming Christians, as will not be taken off from the keeping of such idle, groundlesse, superstitious and prophane Holy-dayes, as never had any colour of warrant from God, Christ or his Apostles, but were the Inventions either of Pagans or Papists or such like ignorant Idolaters? Doubtlesse the Lord will one day say to the best observers of this time of Christmas, <hi>Who hath requir<g ref="char:EOLhyphen"/>ed this of you?</hi> In what part of my Word have you found any com<g ref="char:EOLhyphen"/>mand or rule for so doing?</p>
+            <pb n="5" facs="tcp:172069:3"/>
+            <p> But much more will he expostulate with others of the profan<g ref="char:EOLhyphen"/>er sort, and will say to them, Who gave you this liberty to turn my grace into lasciviousnesse? Why do you cellbrate my Sonnes Nativity with the excesse of Ryot? By what warrant do you spend these days and nights so contrary to my Commandements? O certainly it is to be feared that such practises may justly cause the truth of many mens Christianity to be called into question; and questionlesse if <hi>Paul</hi> were now alive amongst us, he would have the same doubt of us he had of the <hi>Galatians.</hi>
+            </p>
+            <p>Seventhly and lastly, the Vanity of this feast may yet further ap<g ref="char:EOLhyphen"/>pear, in that it is almost utterly abolished in all Christian Reform<g ref="char:EOLhyphen"/>ed Churches (but ours) which upon the breaking forth of the light of the Gospel, have abandoned the grosse abuses of this time, as an Heathenish Antichristian practise, becomming none but the children of darknesse. And I do beleeve that there are few or none, whose understandings are truly inlightned with the grace of saving knowledge, but do heartily dislike these times, with all the fooleries that belong to them, and dare not allow them<g ref="char:EOLhyphen"/>selves the liberty that others take.</p>
+            <div type="objections_and_responses">
+               <head>Objections for keeping Christmas, Answered.</head>
+               <div n="1" type="objection">
+                  <p>1 Ob. This day and the other Holy dayes in the Twelftide is solemnized in memorial of our Saviours Nativity, and the rest in honour of the other Saints, to whose names those days are dedicated.</p>
+                  <p>
+                     <hi>Ans.</hi>
+                  </p>
+                  <list>
+                     <item>1 We know not that Christ was born on this day.</item>
+                     <item>2 It is more likely that our Saviour was born in Summer.</item>
+                     <item>3 We have neither precept nor practise from Christ or his A<g ref="char:EOLhyphen"/>postles, for the keeping of this day.</item>
+                     <item>4 The Sabbath was changed from the seventh day to the first day of the week, in memorial of Christ and his benefits, and is ther<g ref="char:EOLhyphen"/>fore called the Lords day.</item>
+                     <item>5 New-yeers-day is meerly heathenish, and so are the customes belonging to it.</item>
+                     <item>6 The other dayes were instituted by the Popes of <hi>Rome,</hi> when Antichristian darknesse overspread the face of the earth.</item>
+                     <pb n="6" facs="tcp:172069:4"/>
+                     <item> 7 This Feast, pretended for the Honour of Christ, and other Saints, yeelds more dishonour to Christ and Christianity, then the whole year besides.</item>
+                  </list>
+               </div>
+               <div n="2" type="objection">
+                  <p>2 <hi>Ob.</hi> The observation of Christmas is of great Anti<g ref="char:EOLhyphen"/>quity, and hath been continued in the Church for many ages.</p>
+                  <p>
+                     <hi>Ans.</hi>
+                  </p>
+                  <list>
+                     <item>1. The Popes Kallender is the first Record we have of this Festival; <hi>Augustins</hi> and <hi>Chrisostoms</hi> Nativity Sermons are adulte<g ref="char:EOLhyphen"/>rate, and foysted into their Works.</item>
+                     <item>2 Antiquity without other Authority is no safe rule for Chri<g ref="char:EOLhyphen"/>stians to walk by: Superstition, Idolatry, Bigamy, &amp;c, are anci<g ref="char:EOLhyphen"/>enter then Christmas, yet not tollerable, because they can plead prescription.</item>
+                  </list>
+               </div>
+               <div n="3" type="objection">
+                  <p>3 <hi>Ob.</hi> Many learned Bishops, and other eminent men for parts and piety, have observed this Feast, as by their preach<g ref="char:EOLhyphen"/>ing upon it, and pleading for it, appears.</p>
+                  <p>
+                     <hi>Ans.</hi>
+                  </p>
+                  <list>
+                     <item>1. Some good Ministers have used to preach upon these days to keep their people out of worse imployment.</item>
+                     <item>2 It is no new thing for Bishops and other learned men, to be maintainers of superstition and profanenesse.</item>
+                     <item>3 The Scribes and Pharisees were eminent amongst the people, yet Christ nayled them up for Counterfeits.</item>
+                     <item>4 Godly men may be dim-sighted in some things: <hi>Bernardus non vidit omnia.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div n="4" type="objection">
+                  <p>4 Ob. Almost all men plead for Christmas, and it is kept by a general consent, none dissenting but a few factious pre<g ref="char:EOLhyphen"/>cise people.</p>
+                  <p>
+                     <hi>Ans.</hi>
+                  </p>
+                  <list>
+                     <item>1 We must not follow a multitude to do evill, <hi>Prov.</hi> 1.</item>
+                     <item>2 If most voyces might carry things, wee should have a mad world, <hi>Paul</hi> had never preached down <hi>Diana</hi> of the <hi>Ephesians,</hi> if the cryes of the Common people had been authenticall.</item>
+                     <item>3 Those few that dislike the superstition and vanities of this Fe<g ref="char:EOLhyphen"/>stival, wil be sound to out-weight the giddy ignorant multitude, in point of understanding and piety.</item>
+                  </list>
+               </div>
+               <div n="5" type="objection">
+                  <p>5 <hi>Ob.</hi> The long continued custome of observing Christ<g ref="char:EOLhyphen"/>mas may plead for the continuance of it still.</p>
+                  <p>
+                     <hi>Answ.</hi>
+                  </p>
+                  <list>
+                     <item>1, Bad customes ought rather to be broken then kept.</item>
+                     <pb n="7" facs="tcp:172069:4"/>
+                     <item> 2 Tis now high time to put away childish things and to lay a<g ref="char:EOLhyphen"/>side the works of darknesse, now that the grace of God which brings salvation hath appeared to all men, and teacheth all men to deny ungodlinesse and worldly lusts, to live soberly, righteously and godly in this present world, <hi>Tit.</hi> 2. 11, 12.</item>
+                  </list>
+               </div>
+               <div n="6" type="objection">
+                  <p>6 <hi>Ob.</hi> Tis a time for feasting, and entertainment of neigh<g ref="char:EOLhyphen"/>bours, and of giving releife and doles to poor people.</p>
+                  <p>
+                     <hi>An.</hi>
+                  </p>
+                  <list>
+                     <item>1. Hang the Devil if he have not one trick or other to cheate the world withall.</item>
+                     <item>2 Any other time of the year, is as good for that purpose as this.</item>
+                     <item>3 The usuall way of releiving the poor at this time, is, I feare, more out of custom and ostentation, then out of charity and true Devotion.</item>
+                  </list>
+               </div>
+               <div n="7" type="objection">
+                  <p>7. <hi>Ob.</hi> Though some have abused this time, as the best things are lyable to abusing; yet the abuse of a thing ought not to take away the use.</p>
+                  <p>
+                     <hi>Ans.</hi>
+                  </p>
+                  <list>
+                     <item>1. This rule holds only in things that are in their own na<g ref="char:EOLhyphen"/>ture lawfull and necessary.</item>
+                     <item>2 This festival is in it selfe unnecessary, and unlawful, because without warrant, and the world may very well spare it, and ther<g ref="char:EOLhyphen"/>fore being so extreamly abused, it may and ought to be utterly a<g ref="char:EOLhyphen"/>bolished.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="part">
+               <head>Exhortations.</head>
+               <p n="1">1 TO the Honourable Court of Parliament, that they would cause this Romish Idoll to be ground to powder, and that they would abstain from committing whoredome with it them<g ref="char:EOLhyphen"/>selves.</p>
+               <p n="2">2 To the Reverend Assembly of Divines, That they would do something before they part, towards the stigmatizing of this Pa<g ref="char:EOLhyphen"/>gan-Popish Strumpet, that the Nation may be convinced how unsutable Christian practises, are to Christian profession.</p>
+               <p n="3">3 To the royall City of <hi>London,</hi> That they would banish this grand Impostor, out of the lines of communication that the light of the Gospell may no longer be blemished with the works of Antichristian darknesse.</p>
+               <p n="4">
+                  <pb n="8" facs="tcp:172069:5"/> 4 To all the Clergy of this Nation, That they would no lon<g ref="char:EOLhyphen"/>ger give countenance to this ungospel-like foolery, but set them<g ref="char:EOLhyphen"/>selvs to cry it down as a reproach to Christianity, though it be with the losse of some new-years-gifts, and a few customary Christmas dinners.</p>
+               <p n="5">5 To the two famous Universities: That they would expel this youth corrupting master of mis-rule out of their Colledges, no mat<g ref="char:EOLhyphen"/>ter though the Cook and Butler grumble at it, or the Schollers misse their exceedings for that time.</p>
+               <p n="6">6 To the Magistrates of <hi>England,</hi> That they would bind this unruly time of Christmas to the good behaviour, or send it away with a passe-port to <hi>Rome</hi> the place of his birth.</p>
+               <p n="7">7 To the Gentry of this Nation: That they would shut their doores against this mis-begotten Epicure, and not suffer themselves and estates to bee abused any longer for fashion sake, nor let their houses be polluted with the Devils sacrifices.</p>
+               <p n="8">8 To Almanack makers, That they would leave lying, and either find out the true time of Christs Nativity, or blot it out of their books.</p>
+               <p n="9">9 To all the people of this Nation, That they would doate no longer upon this <hi>Babilonish</hi> Hag, which hath so long inchanted them with her devout looks, pleasing pastime, and good chear.</p>
+               <byline>Written by him that loves a Choller of Brawne, and a Mince-pye, as well as any Common-Councell man in this City.</byline>
+            </div>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed at</hi> London <hi>for</hi> Robert Ibbitson <hi>dwelling in Smithfield neer</hi> Hosier Lane, 1651.</p>
+            <p>Published according to Order.</p>
+            <pb facs="tcp:172069:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
